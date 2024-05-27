@@ -1,0 +1,15 @@
+﻿  Cities.cpp
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(6,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(9,35): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(13,19): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(57,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(60,35): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(64,19): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(104,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(118,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(121,35): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(126,19): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\HA_CR2.1B_Sion_Sebastian_Valentin\Cities.cpp(174,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  HA_CR2.1B_Sion_Sebastian_Valentin.vcxproj -> E:\Visual Studio Programs\IA\HA_CR2.1B_Sion_Sebastian_Valentin\x64\Debug\HA_CR2.1B_Sion_Sebastian_Valentin.exe
